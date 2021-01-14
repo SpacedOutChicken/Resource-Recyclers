@@ -1,0 +1,5 @@
+It's late in the game, your tech has advanced, you've got units and buildings that need Oil or Aluminum or other such things, and you've got all these Horses and Iron lying around unused. What are you going to do? Well, now you have an option: recycle them! The Resource Recyclers mod adds two new buildings to Unciv that let you turn outdate Horses and Iron into up-to-date Coal, Oil, Aluminum, and Uranium!
+
+It's not for free, of course: you have to pay for the buildings first, and you can only build them where you've got developed resources already, so don't get too excited about changing every last horse into factory fuel. Sorry, can't make it too easy.
+
+But hey, you've got new options now! So what are you waiting for? Build a Biofuel Farm and an Ore Refinery, and start making those old resources work for you again!
